@@ -1,0 +1,28 @@
+name: Beyond Intelligence
+favicon: null
+layout_spectrum: 0.10103088989853859
+typography_spectrum: 0.7861366434954107
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.002408258616924286
+  lightness: 0.40948552661575377
+  saturation: 0.01275015203282237
+  rhythmicContrast: 0.8344919693190604
+purpose: []
